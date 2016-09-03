@@ -13,7 +13,7 @@
 
 [IMPLEMENTATION]
 
-3. Now Put these values in tha java code provided here [ https://github.com/shashank7200/Twitterumble/blob/master/src/com/ashwamegh/twitterumlbe/Twitterumble.java ]. 
+3. Now Put these values in thE java code provided here [ https://github.com/shashank7200/Twitterumble/blob/master/src/com/ashwamegh/twitterumlbe/Twitterumble.java ]. 
 
 4. You are done.
 
