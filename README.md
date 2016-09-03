@@ -1,13 +1,17 @@
 # Twitterumble
-Simple Java project to tweet on twitter automatically using your account.
+[DESCRIPTION]: Simple Java project to tweet on twitter automatically using your account.
 
-Twitterumble needs REST Api and Apache Commons Http to use it with the Java code generated.
+[DEPENDENCIES]: Twitterumble needs REST Api and Apache Commons Http to use it with the Java code generated.
 
-Prerequisites:
+[NOTE]: Libraries used are attached here: https://github.com/shashank7200/Twitterumble/tree/master/lib
+
+[PREREQUISITES]:
 
 1. Go to the URL https://dev.twitter.com/apps and create a new application. Give access level in ‘Settings’ as ‘Read, Write and Access direct messages’.
 
 2. Get your Customer key and Customer secret key and then generate your Access token & Access Token secret.
+
+[IMPLEMENTATION]
 
 3. Now Put these values in tha java code provided here [ https://github.com/shashank7200/Twitterumble/blob/master/src/com/ashwamegh/twitterumlbe/Twitterumble.java ]. 
 
